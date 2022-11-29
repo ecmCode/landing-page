@@ -3,10 +3,10 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:'/boilerplate/',
+  base:'/react-vite-tailwind-boilerplate/',
   // base:'', # change to any on production.
   plugins: [react()],
   server: {
-    open: '/boilerplate/'
+    open: '/react-vite-tailwind-boilerplate/'
   },
 })
