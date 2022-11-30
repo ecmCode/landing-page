@@ -1,1 +1,1 @@
-# react + vite + tailwindcss boilerplate
+# Landing Page
